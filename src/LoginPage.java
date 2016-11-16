@@ -11,7 +11,7 @@ import javax.swing.ButtonGroup;
 public class LoginPage extends javax.swing.JFrame {
 
     /**
-     * Creates new form LoginPage
+     * Creates new form LoginPag
      */
     public LoginPage() {
         
